@@ -70,7 +70,7 @@ Before you begin, ensure you have met the following requirements:
 
 A brief overview of the important directories and files:
 
-```
+
 yuoj5osux/
 ├── dart_app/                    # Contains the Dart application/code
 │   ├── bin/
@@ -90,7 +90,7 @@ yuoj5osux/
 │   └── output/
 ├── .gitignore
 └── README.md
-```
+
 *(Adjust the structure above to match your actual project layout)*
 
 ## Installation
